@@ -1,2 +1,2 @@
-# blog-rest
-learning go gin sqlite rest api
+# blog-graphql
+learning go with graphql
